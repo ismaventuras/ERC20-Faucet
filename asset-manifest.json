@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ERC20-Faucet/static/css/main.e2f307e7.css",
-    "main.js": "/ERC20-Faucet/static/js/main.a555c2cb.js",
+    "main.js": "/ERC20-Faucet/static/js/main.6d94ff9d.js",
     "index.html": "/ERC20-Faucet/index.html",
     "main.e2f307e7.css.map": "/ERC20-Faucet/static/css/main.e2f307e7.css.map",
-    "main.a555c2cb.js.map": "/ERC20-Faucet/static/js/main.a555c2cb.js.map"
+    "main.6d94ff9d.js.map": "/ERC20-Faucet/static/js/main.6d94ff9d.js.map"
   },
   "entrypoints": [
     "static/css/main.e2f307e7.css",
-    "static/js/main.a555c2cb.js"
+    "static/js/main.6d94ff9d.js"
   ]
 }
